@@ -1,6 +1,5 @@
 /* Bank Accounts Management System
 Step 6
-© 2023 Tushar Aggarwal. All rights reserved.
 */
 /*Security and monitoring*/
 

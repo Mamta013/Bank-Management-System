@@ -1,4 +1,3 @@
-#© 2023 Tushar Aggarwal. All rights reserved. github.com/tushar2704
 from flask import Flask, render_template
 
 app = Flask(__name__)

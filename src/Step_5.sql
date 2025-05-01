@@ -1,6 +1,5 @@
 /* Bank Accounts Management System
 Step 5
-© 2023 Tushar Aggarwal. All rights reserved.
 */
 /*Transaction management:*/
 
